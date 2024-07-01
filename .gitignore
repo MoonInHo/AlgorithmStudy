@@ -1,0 +1,12 @@
+# .idea directory
+.idea/
+
+# Specific files in .idea directory to be ignored
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/vcs.xml
+.idea/shelf/
+
+.DS_Store
+out/
+
