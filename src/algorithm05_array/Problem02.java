@@ -13,7 +13,6 @@ public class Problem02 {
      * 1. 배열 길이는 2 이상 1.000 이하입니다.
      * 2. 각 배열의 데이터 값은 -100,000 이상 100,000 이하입니다.
      */
-
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

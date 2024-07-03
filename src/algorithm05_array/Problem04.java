@@ -20,7 +20,6 @@ public class Problem04 {
      * 2. 문제의 정답은 1, 2, 3, 4, 5 중 하나
      * 3. 가장 높은 점수를 받은 사람이 여럿이라면 반환하는 값을 오름차순으로 정렬
      */
-
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

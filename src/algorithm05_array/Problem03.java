@@ -16,7 +16,6 @@ public class Problem03 {
      * 1. numbers의 길이는 2 이상 100 이하입니다.
      * 2. numbers의 모든 수는 0 이상 100 이하입니다.
      */
-
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
